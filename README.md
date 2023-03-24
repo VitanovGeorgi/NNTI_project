@@ -1,1 +1,1 @@
-# NNTI_project submission.
+Project submission for the course NNTI, Winter 2022/23.
